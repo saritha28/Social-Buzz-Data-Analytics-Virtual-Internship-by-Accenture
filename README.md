@@ -56,6 +56,3 @@ You want to show them that you’ve understood their business and requirements, 
 This is your time to shine and to show them how great you are! Try to present your work with confidence and conviction, if you don’t feel confident talking about your results then it’s a good indication that you don’t understand them fully or may need to revisit the dataset! Speaking about your results should feel natural when you explain what you’ve done.
  
 A good presentation always takes a lot of preparation. The more you practice presenting your content, the more confident you will be when the time comes. Practice with your housemates, friends, family, anyone that is free! Ask for feedback and keep improving until you’re happy with your presentation and you’re confident in presenting your content.
-
-![Screenshot (6)](https://user-images.githubusercontent.com/100423431/205313044-0bb4e397-951c-44a4-afd4-45e6355cc841.png)
-Link:- https://public.tableau.com/views/SocialBuzz_16699904835990/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
